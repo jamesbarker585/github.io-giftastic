@@ -1,0 +1,12 @@
+body, small {      
+    color: black;
+    padding-left: 20px; 
+}
+
+form {
+  font-size:1.5em;
+}
+
+button, div, form, input {
+    margin:10px;
+}
